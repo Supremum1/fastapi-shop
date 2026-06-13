@@ -1,0 +1,5 @@
+C:\Users\Artem\Desktop\Programs\fastapi-shop\backend>python -m venv venv
+C:\Users\Artem\Desktop\Programs\fastapi-shop\backend>venv\Scripts\activate.bat
+(venv) C:\Users\Artem\Desktop\Programs\fastapi-shop\backend>pip install fastapi uvicorn sqlalchemy pydantic python-dotenv
+(venv) C:\Users\Artem\Desktop\Programs\fastapi-shop\backend>pip install pydantic-settings
+(venv) C:\Users\Artem\Desktop\Programs\fastapi-shop\backend>pip freeze > requirements.txt
